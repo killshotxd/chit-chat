@@ -10,7 +10,7 @@ const Navbar = () => {
           alt="avatar"
         />
         <span>Hassan</span>
-        <button>Log out</button>
+        <button>Logout</button>
       </div>
     </div>
   );
