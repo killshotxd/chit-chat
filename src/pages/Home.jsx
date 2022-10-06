@@ -5,5 +5,3 @@ const Home = () => {
 };
 
 export default Home;
-
-// 17m
